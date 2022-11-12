@@ -4,6 +4,6 @@ These are projects specifically using python programming, which is a skill I gai
 
 I've been coding for over two years using Python and the course helped polished my skills. 
 
-Code rewritten in replit.com
+Code written in replit.com
 
 Please feel free to review my project codes.
